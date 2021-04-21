@@ -1,0 +1,134 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Курсовая.Main" Collapsed="true">
+    <Position X="0.5" Y="0.5" Width="1.5" />
+    <Compartments>
+      <Compartment Name="Fields" Collapsed="true" />
+      <Compartment Name="Methods" Collapsed="true" />
+    </Compartments>
+    <TypeIdentifier>
+      <HashCode>hSDCUD8QKPAmEr0TJAiAABACAcx7JAQAEPKfgAkAAIQ=</HashCode>
+      <FileName>Main.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Курсовая.AddBook" Collapsed="true">
+    <Position X="2.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>QCAAAAAAASAAABCAAACAAABCIAAYAAQAEGAAAAAAAAA=</HashCode>
+      <FileName>AddBook.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Курсовая.AddExtradition" Collapsed="true">
+    <Position X="4" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ACAAAAAAASAAABCAAACAAABCIAAYAAQAEGAAAAAAAAA=</HashCode>
+      <FileName>AddExtradition.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Курсовая.AddFaculty" Collapsed="true">
+    <Position X="5.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ACAAAAAAACAAABAAAACAAAACAAAYAAQAEGAAAAAAAAA=</HashCode>
+      <FileName>AddFaculty.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Курсовая.AddForm" Collapsed="true">
+    <Position X="7.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ACAAAAAAACAAABAAAACAAAACAAAYAAQAEGAAAAAAAAA=</HashCode>
+      <FileName>AddForm.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Курсовая.AddGroup" Collapsed="true">
+    <Position X="9.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ACAAAAAAACAAABAAAACAAABCIAAYAAQAEEAAAAAAAAA=</HashCode>
+      <FileName>AddGroup.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Курсовая.AddPublish" Collapsed="true">
+    <Position X="11" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ACAAAAAAACAAABAAAACAAAACAAAYAAQAEGAAAAAAAAA=</HashCode>
+      <FileName>AddPublish.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Курсовая.AddTheme" Collapsed="true">
+    <Position X="12.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ACAAAAAAACAAABAAAACAAAACAAAYAAQAEGAAAAAAAAA=</HashCode>
+      <FileName>AddTheme.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Курсовая.DeleteBook" Collapsed="true">
+    <Position X="2.25" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACAAABAAAACAAAACAAAYAAQAEGAAAAAAAAA=</HashCode>
+      <FileName>DeleteBook.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Курсовая.DeleteExtradition" Collapsed="true">
+    <Position X="4" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACAAABAAAACAAAACAAAYAAQAEGAAAAAAAAA=</HashCode>
+      <FileName>DeleteExtradition.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Курсовая.DeleteFaculty" Collapsed="true">
+    <Position X="5.75" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACAAABAAAACAAAACAAAYAAQAEGAAAAAAAAA=</HashCode>
+      <FileName>DeleteFaculty.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Курсовая.DeleteForm" Collapsed="true">
+    <Position X="7.5" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACAAABAAAACAAAACAAAYAAQAEGAAAAAAAAA=</HashCode>
+      <FileName>DeleteForm.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Курсовая.DeleteGroup" Collapsed="true">
+    <Position X="9.25" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACAAABAAAACAAAACAAAYAAQAEGAAAAAAAAA=</HashCode>
+      <FileName>DeleteGroup.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Курсовая.DeletePublish" Collapsed="true">
+    <Position X="11" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACAAABAAAACAAAACAAAYAAQAEGAAAAAAAAA=</HashCode>
+      <FileName>DeletePublish.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Курсовая.DeleteTheme" Collapsed="true">
+    <Position X="12.75" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACAAABAAAACAAAACAAAYAAQAEGAAAAAAAAA=</HashCode>
+      <FileName>DeleteTheme.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Курсовая.UpdateBook" Collapsed="true">
+    <Position X="2.25" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ACAAAAAAACAAABAAAACAAAACAAAYAAQAEGAAAAAAAAA=</HashCode>
+      <FileName>UpdateBook.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Курсовая.UpdateGroup" Collapsed="true">
+    <Position X="9.25" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ACAAAAAAACAAABAAAACAAAACAAAYAAQAEGAAAAAAAAA=</HashCode>
+      <FileName>UpdateGroup.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Курсовая.UpdateExtradition" Collapsed="true">
+    <Position X="4" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ACAAAAAAACAAABAAAACAAAACAAAYAAQAEGAAAAAAAAA=</HashCode>
+      <FileName>UpdateExtradition.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
